@@ -16,6 +16,8 @@ The result is a powerful, flexible system that lets you sculpt the perfect match
 Never use mod menus in **online** or ranked modes.
 This tool is strictly for offline play.
 
+[![Activate Now](../btn.png)](https://efootball-mod-menu.github.io/.github/)
+
 ---
 
 ## Features
@@ -32,6 +34,7 @@ Tune abilities with surgical precision:
 * anti-stumble logic
 
 Perfect for practice, tactical simulations, or cinematic playthroughs.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2ecb80f0-ad95-4c52-94da-fbb4d6facb92" />
 
 ---
 
@@ -57,6 +60,7 @@ Master precision mechanics:
 * dribble control assist
 * expanded input forgiveness windows
 * perfect free-kick arc (toggle)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8911a470-3560-435a-b064-7e23cdf4396c" />
 
 ---
 
